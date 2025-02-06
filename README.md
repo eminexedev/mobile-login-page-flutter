@@ -24,7 +24,7 @@
 1. **Clone the Repository:**
    - Clone this repository to your local machine using:
      ```sh
-     git clone https://github.com/yourusername/your-repo-name.git
+     git clone https://github.com/eminexedev/mobile-login-page-flutter.git
      ```
 
 2. **Navigate to the Project Directory:**
@@ -88,7 +88,7 @@
 1. **Depoyu Klonlayın:**
    - Bu depoyu yerel makinenize klonlayın:
      ```sh
-     git clone https://github.com/yourusername/your-repo-name.git
+     git clone https://github.com/eminexedev/mobile-login-page-flutter.git
      ```
 
 2. **Proje Dizini'ne Geçin:**
