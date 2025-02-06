@@ -30,7 +30,7 @@
 2. **Navigate to the Project Directory:**
    - Change to the project directory:
      ```sh
-     cd your-repo-name
+     cd mobile-login-page-flutter
      ```
 
 3. **Install Dependencies:**
@@ -94,7 +94,7 @@
 2. **Proje Dizini'ne Geçin:**
    - Proje dizinine geçin:
      ```sh
-     cd your-repo-name
+     cd mobile-login-page-flutter
      ```
 
 3. **Bağımlılıkları Yükleyin:**
