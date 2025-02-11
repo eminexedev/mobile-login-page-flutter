@@ -5,7 +5,7 @@
 ### How to Install Flutter
 
 1. **Download Flutter SDK:**
-   - Go to the [Flutter website](https://flutter.dev/docs/get-started/install) and download the Flutter SDK for your operating system.
+- Go to the [Flutter website](https://flutter.dev/docs/get-started/install) and download the Flutter SDK for your operating system.
 
 2. **Extract the Flutter SDK:**
    - Extract the downloaded Flutter SDK to a desired location on your machine.
